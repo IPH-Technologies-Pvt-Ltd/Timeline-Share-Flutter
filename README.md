@@ -1,4 +1,7 @@
 # TimeLine Share
+[![Dart](https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%230175C2)](https://dart.dev/)
+[![Ruby](https://img.shields.io/badge/ruby-%2320232a.svg?style=for-the-badge&logo=ruby&logoColor=%23CC342D)](https://www.ruby-lang.org/)
+[![Other](https://img.shields.io/badge/other-%2320232a.svg?style=for-the-badge)](https://www.example.com/)
 
 This repository contains the code for an TimeLine Share built using Flutter. It aims to replicate the basic functionality and user interface of the popular social media platform TimeLine Share. 
 
